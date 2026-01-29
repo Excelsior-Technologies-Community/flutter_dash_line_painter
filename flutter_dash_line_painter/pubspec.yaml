@@ -1,7 +1,7 @@
 name: flutter_dash_line_painter
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_dash_line_painter
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_dash_line_painter
 
 environment:
   sdk: ^3.8.1
