@@ -39,7 +39,8 @@ dependencies:
 ##
 
 ### From GitHub
-```yamldependencies:
+```yaml
+dependencies:
   flutter_dash_line_painter:
     git:
       url: https://github.com/yourusername/flutter_dash_line_painter.git
